@@ -10,6 +10,9 @@ JavaScript.
 - [x] Encontrar o maior número de um array
 - [x] Encontrar o menor número de um array
 - [x] Contar ocorrências em um array
+- [x] Soma e média de elementos
+- [x] Filtrar elementos de um array
+- [x] Encontrar o segundo maior número
 - [x] Complexidade Big O
 - [ ] Busca linear e busca binária
 - [ ] Pilhas e filas

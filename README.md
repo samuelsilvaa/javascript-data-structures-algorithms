@@ -14,7 +14,7 @@ JavaScript.
 - [x] Filtrar elementos de um array
 - [x] Encontrar o segundo maior número
 - [x] Complexidade Big O
-- [ ] Busca linear e busca binária
+- [x] Busca linear e busca binária
 - [ ] Pilhas e filas
 - [ ] Recursão
 - [ ] Árvores e grafos

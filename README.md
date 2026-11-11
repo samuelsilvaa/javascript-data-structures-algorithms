@@ -15,7 +15,7 @@ JavaScript.
 - [x] Encontrar o segundo maior número
 - [x] Complexidade Big O
 - [x] Busca linear e busca binária
-- [ ] Pilhas e filas
+- [x] Pilhas e filas
 - [ ] Recursão
 - [ ] Árvores e grafos
 

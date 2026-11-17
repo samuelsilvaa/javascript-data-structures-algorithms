@@ -16,7 +16,7 @@ JavaScript.
 - [x] Complexidade Big O
 - [x] Busca linear e busca binária
 - [x] Pilhas e filas
-- [ ] Recursão
+- [x] Recursão
 - [ ] Árvores e grafos
 
 ## Objetivo
